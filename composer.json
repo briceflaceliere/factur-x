@@ -1,8 +1,8 @@
 {
-    "name": "briceflaceliere/factur-x",
+    "name": "briceflaceliere/zugferd",
     "keywords": ["zugferd","xrechnung","electronic","invoice"],
     "description": "A library for creating and reading european electronic invoices",
-    "homepage": "",
+    "homepage": "https://github.com/briceflaceliere/zugferd",
     "type": "package",
     "license": "MIT",
     "prefer-stable": true,
